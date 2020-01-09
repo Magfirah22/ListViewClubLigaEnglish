@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListViewClubLigaEnglish</string>
+    <string name="tim_name">Nama Tim</string>
+    <string name="tim_desc">description</string>
+</resources>
